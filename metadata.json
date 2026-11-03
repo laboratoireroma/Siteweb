@@ -1,0 +1,6 @@
+{
+  "name": "Laboratoire d'Analyses Médicales Roma - Casablanca",
+  "description": "Laboratoire d'analyses médicales et de biologie clinique à Casablanca. Prélèvements à domicile, urgences 7j/7, résultats rapides et fiables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
