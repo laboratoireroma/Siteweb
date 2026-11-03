@@ -1,3 +1,5 @@
+import logoImg from '../assets/logo_roma_transparent.png';
+
 export interface AnalysisItem {
   id: string;
   name: string;
@@ -38,7 +40,7 @@ export const LAB_INFO = {
   country: "Maroc",
   address: "117, Angle Boulevard 2 Mars et Rue de Rome, Quartier des Hôpitaux / Mers Sultan, Casablanca 20250",
   landmark: "Angle Boulevard 2 Mars et Rue de Rome, 1er étage – Stationnement disponible",
-  logoUrl: "/assets/aistudio/logo_roma_transparent_b60a769e.png",
+  logoUrl: logoImg,
   coordinates: {
     lat: 33.5746,
     lng: -7.6189,
